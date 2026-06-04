@@ -17,7 +17,3 @@ This repository is a **work in progress**. More coming soon!
 - 🔍 Full-text search
 - 📁 Folder/category system
 - 🌐 Web & mobile access
-
----
-
-*Built with 💻 by Damian*
